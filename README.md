@@ -8,8 +8,10 @@ Note: The The user will not be deleted, added, or edit on the database. but data
 
 How to run the project:
 - Clone the github repo
-- run "npm run install" or whatever package manager you use
-- then run "npm run dev"
+- Change the directory using "cd mit_frontend_lintang"
+- Run "npm run install" or whatever package manager you use
+- Then run "npm run dev"
+- Vite Project can be open in http://localhost:5173/
 
 User login credentials
 - username: "mor_2314"
