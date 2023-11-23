@@ -6,6 +6,11 @@ Using axios to integrate with Fake API
 
 Note: The The user will not be deleted, added, or edit on the database. but data was sent successfully return the deleted, edited, added user. It will not change the user list page. (source: https://fakestoreapi.com/docs)
 
+How to run the project:
+- Clone the github repo
+- run "npm run install" or whatever package manager you use
+- then run "npm run dev"
+
 User login credentials
 - username: "mor_2314"
 - password: "83r5^_"
